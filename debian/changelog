@@ -1,0 +1,5 @@
+golang-github-inconshreveable-go-vhost (0.0~git20141212.0.8cbc508-1) UNRELEASED; urgency=medium
+
+  * Initial release (Closes: TODO)
+
+ -- Markus Sabadello <markus@projectdanube.org>  Tue, 17 Nov 2015 14:04:07 +0100
